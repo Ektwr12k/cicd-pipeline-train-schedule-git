@@ -19,7 +19,6 @@ from ('.') {
         include "*"
         include "bin/**"
         include "data/**"
-        include "node_modules/**"
         include "public/**"
         include "routes/**"
         include "views/**"
